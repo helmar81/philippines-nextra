@@ -6,10 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^5.0.0-rc.8",
-    "@next/third-parties": "^14.1.4",
+    "@netlify/plugin-nextjs": "^4.41.3",
     "gray-matter": "^4.0.3",
-    "next": "^14.1.4",
+    "next": "latest",
     "nextra": "^2.0.0-beta.5",
     "nextra-theme-blog": "^2.0.0-beta.5",
     "react": "^18.2.0",
