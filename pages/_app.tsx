@@ -24,10 +24,12 @@ export default function App({ Component, pageProps }: AppProps) {
           type="font/woff2"
           crossOrigin="anonymous"
         />
+
+<GoogleTagManager gtmId="GTM-P6P754BT" />
       </Head>
       <Component {...pageProps} />
 
-      <GoogleTagManager gtmId="GTM-P6P754BT" />
+      
 
     </>
   );
