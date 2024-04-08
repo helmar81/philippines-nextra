@@ -7,6 +7,8 @@ import "../styles/main.css";
 
 
 
+
+
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
@@ -24,6 +26,8 @@ export default function App({ Component, pageProps }: AppProps) {
           type="font/woff2"
           crossOrigin="anonymous"
         />
+
+        
 
       </Head>
       <Component {...pageProps} />
