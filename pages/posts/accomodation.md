@@ -1,6 +1,6 @@
 ---
 title: Accomodation
-date: 2024/3/19
+date: 2024/4/7
 description: life here is very affordable
 tag: lifestyle
 author: You
