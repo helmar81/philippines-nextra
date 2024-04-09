@@ -8,10 +8,10 @@
 @font-face {
   font-family: "Inter var";
   font-style: italic;
-  font-weight: 100 900;
+  font-weight: 100 800;
   font-display: block;
   src: url(/fonts/Inter-italic.latin.var.woff2) format("woff2");
-  font-named-instance: "Italic";
+  font-named-instance: "latin";
 }
 
 body {
@@ -21,7 +21,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   font-feature-settings: "case" 1, "cpsp" 1, "dlig" 1, "cv01" 1, "cv02",
     "cv03" 1, "cv04" 1;
-  font-variation-settings: "wght" 450;
+  font-variation-settings: "wght" 850;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
 }
@@ -55,6 +55,7 @@ details summary {
 img.next-image {
   margin: 0;
   border-radius: 8px;
+  align-self: auto;
 }
 
 .prose a {
@@ -62,7 +63,7 @@ img.next-image {
 }
 
 .nav-line .nav-link {
-  color: #69778c;
+  color: #3c78d2;
 }
 
 
@@ -73,5 +74,14 @@ table {
   width: 1000px;
   height: 300px;
   ;
+}
+
+div {
+ 
+  margin: 8px;
+  width: 100%;
+  
+  align-items: auto;
+  
 }
 

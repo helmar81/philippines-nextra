@@ -1,0 +1,19 @@
+{  "name": "Travel Guide",  
+"short_name": "Philippines",  
+"theme_color": "#fff", 
+ "background_color": "#6600ff",  
+ "display": "browser",  "orientation":
+  "portrait",  "scope": "/",  
+  "start_url": "/",
+  "icons": [{
+    "src": "images/ph.png",
+    "sizes": "48x48",
+    "type": "image/png"
+
+    }]
+
+  }
+
+
+  
+ 

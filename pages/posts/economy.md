@@ -17,7 +17,7 @@ author: You
 />
 
 
-#### Salary is very low
+## Salary
 According to the 2022 Occupational Wage Survey (OWS), the average monthly salary in the Philippines is Php 18,423.00 (US$ 330.08). With the lack of a national minimum wage in the country, the salaries of Filipino workers may vary depending on their location, industry, and skill sets.
 
 Outsourcing work to the Philippines is always an excellent option for small to mid-sized companies that aim to get the most bang out for their buck.
