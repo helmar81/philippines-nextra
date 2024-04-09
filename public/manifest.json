@@ -6,7 +6,7 @@
   "portrait",  "scope": "/",  
   "start_url": "/",
   "icons": [{
-    "src": "images/ph.png",
+    "src": "/images/ph.png",
     "sizes": "48x48",
     "type": "image/png"
 
