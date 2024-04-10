@@ -55,6 +55,7 @@ details summary {
 img.next-image {
   margin: 0;
   border-radius: 8px;
+  align-items: center;
 }
 
 .prose a {
@@ -85,14 +86,7 @@ iframe {
 }
 
 
-div {
- 
-  margin: 20px;
-  align-items: center;
-  padding: 10px;
- 
-  ;
-}
+
 
 
 
